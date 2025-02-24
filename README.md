@@ -3,7 +3,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/AlgoTunes/AI_MEDIA?style=social)](https://github.com/AlgoTunes/AI_MEDIA)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![AI_MEDIA Banner](banner.png) <!-- 建议添加项目横幅图 -->
+![AI_MEDIA Banner](banner.png) 
 
 ## 🚀 项目简介
 AI_MEDIA是新一代智能媒体内容生产系统，通过大语言模型实现：
@@ -21,7 +21,7 @@ AI_MEDIA是新一代智能媒体内容生产系统，通过大语言模型实现
 - 自动生成符合平台调性的多样化文体（新闻/评测/科普等）
 
 ### 2. 视觉引擎
-- Stable Diffusion/DALL·E 3智能配图生成
+- 智能配图
 - 多模态内容匹配算法
 - 自动优化图片尺寸适配各平台规范
 
@@ -35,3 +35,14 @@ AI_MEDIA是新一代智能媒体内容生产系统，通过大语言模型实现
 - 内容排重检测
 - 流量预测算法
 - 自动生成标题/话题标签
+
+## 📅 开发计划
+- [ ] 全自动托管
+- [ ] 支持自定义模板系统
+- [ ] 优化多模态内容生成算法
+
+## 👥 社区交流
+- 微信交流群：扫描下方二维码加入（备注：AI_MEDIA）
+![AI_MEDIA交流群](wechat_group.jpg)
+
+
